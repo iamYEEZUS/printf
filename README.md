@@ -1,6 +1,6 @@
 # printf
 
-## Description:page_facing_up:
+## Description
 
 ------------
 
@@ -34,7 +34,7 @@ va_arg (man 3 va_arg)
 
 ------------
 
-#### Compilation:alembic:
+#### Compilation
 
 ------------
 

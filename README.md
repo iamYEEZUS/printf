@@ -14,12 +14,6 @@ These arguments are placed using the percentage '%' operator
 
 ### Resources
 
-------------
-
-
-
-Secrets of printfby Don colton
-https://www.cypress.com/file/54761/download
 
 ------------
 

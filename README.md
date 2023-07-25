@@ -5,7 +5,7 @@
 ------------
 
 The printf function sends formatted output to stdout.
-A custom _printf() for learning purposes was developed by cohort  #8 students Nicks and Musa parsanka.
+A custom _printf() for learning purposes was developed by Nerrison Philip Boadu and Nadia Mohammed.
 _printf() function format string is a character string, beginning and ending in its initial shift state, if any. 
 These arguments are placed using the percentage '%' operator
 
@@ -41,7 +41,7 @@ va_arg (man 3 va_arg)
 
 The code must be compiled this way:
 
-**$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c***
+**$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 **.c***
 
 As a consequence, be careful not to push any c file containing a main function in the root directory of your project (you could have a test folder containing all your tests files including main functions)
 

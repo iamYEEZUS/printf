@@ -49,6 +49,17 @@ The main files will include your main header file (main.h): **#include main.h**
 
 ------------
 
+
+#### Editor
+
+------------
+- Emacs on Ubuntu 20.04 LTS
+- All your files should end with a new line
+- Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
+- You are not allowed to use global variables
+- No more than 5 functions per file
+------------
+
 #### Use & Examples
 
 
@@ -232,5 +243,5 @@ All the above options work well together.
 
 ### Authors &copy;
 
-- Nadia Mohammad
+- Nadia Mohammed
 - Philip Nerrison Boadu
